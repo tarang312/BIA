@@ -1,15 +1,4 @@
----
-title: BIA - Bio-energy Intelligence Application
-emoji: 🔋
-colorFrom: green
-colorTo: blue
-sdk: docker
-app_port: 7860
-pinned: false
-license: mit
----
-
-# BIA - Bio-energy Intelligence Application
+# BIA
 
 A Streamlit-based bioenergy intelligence platform for waste-to-energy analysis with forecasting, financial modeling, and facility mapping.
 
@@ -22,33 +11,3 @@ A Streamlit-based bioenergy intelligence platform for waste-to-energy analysis w
 - **Sensitivity Analysis**: Tornado charts for parameter impact assessment
 - **Facility Mapping**: Interactive maps of bioenergy facilities
 - **Audit Trail**: Complete mathematical formulas and parameter provenance
-
-## Supported Cities
-
-- Ahmedabad
-- Gandhinagar  
-- Indore
-- Delhi
-- Mumbai
-- Pune
-- Bengaluru
-- Chennai
-
-## Quick Start
-
-1. **Install Dependencies**
-   ```bash
-   pip install streamlit pandas numpy plotly statsmodels pydantic scikit-learn folium streamlit-folium pydeck python-dateutil bcrypt pyyaml matplotlib
-   ```
-
-2. **Run Application**
-   ```bash
-   streamlit run app.py
-   ```
-
-3. **Access Application**
-   - Open your browser to `http://localhost:5000`
-   - Demo login: **demo** / **demo123**
-
-## Application Structure
-
