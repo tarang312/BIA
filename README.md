@@ -1,3 +1,15 @@
+---
+title: BIA - Bio-energy Intelligence Application
+emoji: 🔋
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # BIA - Bio-energy Intelligence Application
 
 A Streamlit-based bioenergy intelligence platform for waste-to-energy analysis with forecasting, financial modeling, and facility mapping.
