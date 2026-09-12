@@ -3,9 +3,8 @@ title: BIA - Bio-energy Intelligence Application
 emoji: 🔋
 colorFrom: green
 colorTo: blue
-sdk: streamlit
-sdk_version: 1.36.0
-app_file: app.py
+sdk: docker
+app_port: 7860
 pinned: false
 license: mit
 ---
