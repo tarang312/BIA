@@ -1,15 +1,12 @@
-streamlit
 pandas
 numpy
 plotly
 matplotlib
 folium
 streamlit-folium
-pydeck
 scikit-learn
 statsmodels
 python-dateutil
 pyyaml
 bcrypt
 pydantic
-sqlalchemy
